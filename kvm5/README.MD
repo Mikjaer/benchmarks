@@ -1,4 +1,4 @@
-"Bob the builder" vores buildserver
+kvm5 - this is the "new" server im working on
 
 Intel Xeon E5645 @ 2.4Ghz, 24 kerner
 192 GB ram
